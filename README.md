@@ -9,4 +9,4 @@ Personal Website repo
   - Staff Developer Relations Engineer: Focused on creating a sustainable and collaborative DevRel team that partners with product, marketing, content, UX research, and OSPO to create a complete developer experience for learning new technology.
 - **10 years’ experience with entrepreneurship:**
   - Co-founder and CTO of ThoughtSTEM, LLC: a 40-person educational software company committed to bringing STEM to K-12 formal and informal learning environments with over $1M in annual revenue at departure, specifically raising over $700K in grant and crowd-funding.(thoughtstem.com)
-  - Founder of cometbid Software Foundation Inc., LLC: a small educational software consulting company, publishing seven books through Wiley publishing.
+  - Founder of Cometbid Software Foundation Inc., LLC: a small educational software consulting company, publishing seven books through Wiley publishing.
